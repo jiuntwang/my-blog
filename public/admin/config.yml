@@ -1,6 +1,7 @@
 backend:
   name: github
   repo: jiuntwang/my-blog
+  branch: master
 
 # These lines should *not* be indented
 media_folder: "content/assets"
